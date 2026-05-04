@@ -31,7 +31,9 @@ Optional (trained in the pipeline):
 - SVM (RBF kernel)
 
 ## Screenshots of GUI
-Add GUI screenshots here (e.g., after running the Streamlit app).
+
+![GUI Screenshot](screenshot.png)
+
 
 ## Results summary
 - The pipeline reports accuracy and per-class precision, recall, and F1-score.
